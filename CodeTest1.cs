@@ -1,8 +1,5 @@
 using System;
 
-
-
-
 public class Solution {
     public int diffIntMax(int[] diffs){
         int max = int.MinValue;
